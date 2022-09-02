@@ -328,3 +328,12 @@ h1 {
 #all-msg-container {
   list-style: none;
 }
+
+.postButtonContainer button{
+  border: none;
+  border-radius: 50px;
+}
+#msg-text{
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
